@@ -7,7 +7,7 @@ Mental Warrior helps you track workouts, meditate, read, manage tasks, and level
 ## Demo Video
 
 <p align="center">
-  <video src="https://github.com/JoeRoganFake/Mental-Warrior-Demo/raw/main/Mental_Warrior_Demo.mp4" width="320" controls>
+  <video src="https://github.com/JoeRoganFake/Mental-Warrior-Demo/assets/video/Mental_Warrior_Demo.mp4" width="320" controls>
   </video>
 </p>
 
@@ -15,7 +15,7 @@ Mental Warrior helps you track workouts, meditate, read, manage tasks, and level
 
 ## Download APK
 
-- [Download Mental Warrior APK](https://github.com/JoeRoganFake/Mental-Warrior-Demo/raw/main/Mental_Warrior.apk)
+- [Download Mental Warrior APK](https://github.com/JoeRoganFake/Mental-Warrior-Demo/assets/apk/Mental_Warrior.apk)
 
 ---
 
