@@ -4,6 +4,10 @@
 
 Mental Warrior helps you track workouts, meditate, read, manage tasks, and level up your life — all backed by a local SQLite database and a rewarding XP system.
 
+## Download APK
+
+- [Download Mental Warrior APK](./Mental_Warrior.apk)
+
 ---
 
 ## Screenshots
@@ -49,7 +53,7 @@ Mental Warrior helps you track workouts, meditate, read, manage tasks, and level
 | Charts | `fl_chart` |
 | Animations | `flutter_animate` |
 | Storage | `shared_preferences`, `path_provider` |
-| Utilities | `crypto`, `http`, `permission_handler`, `share_plus`, `vibration` |
+| Utilities | `http`, `permission_handler`, `share_plus`, `vibration` |
 
 ---
 
@@ -125,58 +129,6 @@ lib/
     ├── level_up_animation.dart
     └── smooth_loading.dart
 ```
-
----
-
-## Getting Started
-
-### Prerequisites
-
-- [Flutter SDK](https://docs.flutter.dev/get-started/install) ^3.6.0
-- Android Studio or Xcode (for device/emulator)
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/your-username/mental_warior.git
-cd mental_warior
-```
-
-### 2. Install dependencies
-
-```bash
-flutter pub get
-```
-
-### 3. Run the app
-
-```bash
-flutter run
-```
-
-### 4. Build for release (Android)
-
-```bash
-flutter build apk --release
-```
-
----
-
-## Permissions (Android)
-
-The app requests the following permissions at runtime:
-
-- `SCHEDULE_EXACT_ALARM` — For workout reminders
-- `FOREGROUND_SERVICE` — Active workout background service
-- `WAKE_LOCK` — Keep screen on during workouts
-- `VIBRATE` — Haptic feedback
-- `POST_NOTIFICATIONS` — Local notifications (Android 13+)
-
----
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ---
 
