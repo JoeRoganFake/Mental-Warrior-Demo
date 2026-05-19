@@ -7,13 +7,13 @@ Mental Warrior helps you track workouts, meditate, read, manage tasks, and level
 ## Demo Video
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/JoeRoganFake/Mental-Warrior-Demo/main/assets/video/Mental_Warrior_Demo.mp4">
-    <img src="assets/screenshots/workout.jpg" width="320" alt="Watch Mental Warrior demo video"/>
+  <a href="assets/video/Mental_Warrior_Demo.mp4">
+    <img src="assets/video/Mental_Warrior_Demo_preview.gif" width="320" alt="Mental Warrior demo autoplay preview"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/JoeRoganFake/Mental-Warrior-Demo/main/assets/video/Mental_Warrior_Demo.mp4"><strong>Watch Demo Video</strong></a>
+  <a href="assets/video/Mental_Warrior_Demo.mp4"><strong>Watch Demo Video</strong></a>
 </p>
 
 
