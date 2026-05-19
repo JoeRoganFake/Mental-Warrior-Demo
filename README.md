@@ -4,9 +4,21 @@
 
 Mental Warrior helps you track workouts, meditate, read, manage tasks, and level up your life — all backed by a local SQLite database and a rewarding XP system.
 
+## Demo Video
+
+<p align="center">
+  <a href="https://github.com/JoeRoganFake/Mental-Warrior-Demo/raw/main/Mental_Warrior_Demo.mp4">
+    <img src="assets/screenshots/home.jpg" width="220" alt="Watch Demo Video"/>
+    <br/>
+    ▶ Watch Demo Video
+  </a>
+</p>
+
+---
+
 ## Download APK
 
-- [Download Mental Warrior APK](./Mental_Warrior.apk)
+- [Download Mental Warrior APK](https://github.com/JoeRoganFake/Mental-Warrior-Demo/raw/main/Mental_Warrior.apk)
 
 ---
 
